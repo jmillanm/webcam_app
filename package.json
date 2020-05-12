@@ -1,0 +1,14 @@
+{
+  "name": "Wcam-Live",
+  "version": "0.0.1",
+  "scripts": {
+    "start" : "node app.js",
+    "dev" : "nodemon app.js"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*",
+    "log": "*",
+    "debug": "*"
+  }
+}
